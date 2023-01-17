@@ -1,0 +1,7 @@
+{
+	"profiles": {
+		"UnoExtApp1.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
